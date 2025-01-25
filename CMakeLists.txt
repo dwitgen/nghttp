@@ -10,7 +10,6 @@ set(srcs
     "nghttp2/lib/nghttp2_http.c"
     "nghttp2/lib/nghttp2_map.c"
     "nghttp2/lib/nghttp2_mem.c"
-    "nghttp2/lib/nghttp2_npn.c"
     "nghttp2/lib/nghttp2_option.c"
     "nghttp2/lib/nghttp2_outbound_item.c"
     "nghttp2/lib/nghttp2_pq.c"
